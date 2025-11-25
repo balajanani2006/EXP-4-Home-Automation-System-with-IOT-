@@ -134,7 +134,7 @@ long microsecondsToCentimeters(long microseconds) {
 
 
 # Output:
-<img width="662" height="250" alt="image" src="https://github.com/user-attachments/assets/6b63828e-ec4d-4451-975b-8ad414d200cf" />
+<img width="662" height="250" alt="image" src="https://github.com/user-attachments/assets/e6645d4c-f43a-4480-98d4-0eb770914a06" />
 
 # Result:
 Thus, Home-Automation-System-with-IOT was successfully implemented using TinkerCad
